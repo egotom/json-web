@@ -1,0 +1,5 @@
+[
+	{"link":".","label":"Home"},
+	{"link":"about","label":"About"},
+	{"link":"news","label":"News"}
+]
